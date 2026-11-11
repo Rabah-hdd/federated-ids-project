@@ -1,0 +1,12 @@
+# Python environments
+.venv/
+__pycache__/
+*.pyc
+
+# Datasets (Do not push massive data files)
+data/
+*.parquet
+*.csv
+
+# OS generated files
+.DS_Store
